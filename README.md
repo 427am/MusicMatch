@@ -1,6 +1,12 @@
 # MusicMatch
 
 **Team 8 - FLOWSTATE**
+Maddy Burns - mrb23g
+Sofia Bernal - sb22i
+Aidan Thompson - amt22m
+James Mosely - jqm22
+
+<img width="132" height="281" alt="Screenshot 2026-03-22 at 7 05 51 PM" src="https://github.com/user-attachments/assets/2e9b1a41-b4ff-4aad-9bf7-566c624a299a" />
 
 **Project Description**
 
