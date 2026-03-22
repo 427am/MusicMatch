@@ -9,8 +9,7 @@ We conducted initial interviews and found that the biggest issue with existing m
 We then developed a low-fidelity prototype, which users generally liked in terms of design. However, testing revealed usability issues, particularly with the filtering page and playlist creation. Users also found the tutorial screens overwhelming. Based on this feedback, we refined the design, resulting in our current mid-fidelity prototype.
 
 Static Renderings: 
-[
-](https://www.figma.com/design/QW1ghRNSmVptaShPlasUpd/Static-Render?node-id=0-1&t=ym696jY45VrgMsSI-1)
+https://www.figma.com/design/QW1ghRNSmVptaShPlasUpd/Static-Render?node-id=0-1&t=ym696jY45VrgMsSI-1 
 
 Interactive Prototype:
 [https://www.figma.com/make/HI9pYFA4ezqYWN12ugDQ5C/Music-Match?t=80RRVJPiGGYPZXTp-20&fullscreen=1 ](https://www.figma.com/make/HI9pYFA4ezqYWN12ugDQ5C/Music-Match?t=80RRVJPiGGYPZXTp-20&fullscreen=1)
