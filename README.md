@@ -22,6 +22,10 @@ We conducted initial interviews and found that the biggest issue with existing m
 
 We then developed a low-fidelity prototype, which users generally liked in terms of design. However, testing revealed usability issues, particularly with the filtering page and playlist creation. Users also found the tutorial screens overwhelming. Based on this feedback, we refined the design, resulting in our current mid-fidelity prototype.
 
+**StoryBoard**
+<img width="448" height="341" alt="Storyboard" src="https://github.com/user-attachments/assets/53d4f4a7-9b32-484c-9a3d-2f39f87a2a4d" />
+
+
 Static Renderings MID-FI: 
 https://www.figma.com/design/QW1ghRNSmVptaShPlasUpd/Static-Render?node-id=0-1&t=ym696jY45VrgMsSI-1 
 
