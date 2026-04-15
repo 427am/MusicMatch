@@ -26,6 +26,7 @@ Static Renderings MID-FI:
 https://www.figma.com/design/QW1ghRNSmVptaShPlasUpd/Static-Render?node-id=0-1&t=ym696jY45VrgMsSI-1 
 
 Static Renderings HI-FI:
+https://www.figma.com/design/uIS0ujLtqBt5dcoU68sHdE/Static-Render-Hi-Fi?node-id=0-1&t=mtkETJTtmrSdNSBX-1 
 
 Interactive Prototype:
 [https://www.figma.com/make/HI9pYFA4ezqYWN12ugDQ5C/Music-Match?t=80RRVJPiGGYPZXTp-20&fullscreen=1 ](https://www.figma.com/make/HI9pYFA4ezqYWN12ugDQ5C/Music-Match?t=80RRVJPiGGYPZXTp-20&fullscreen=1)
