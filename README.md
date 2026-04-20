@@ -1,4 +1,8 @@
-# MusicMatch
+# MusicMatch 
+<img width="74" height="93" alt="MusicMatchLogo" src="https://github.com/user-attachments/assets/1385b05f-d4d6-44db-95b8-b901007fb42a" />
+
+
+
 
 **Team 8 - FLOWSTATE**
 
